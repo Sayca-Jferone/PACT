@@ -5,15 +5,11 @@
 ```
 0-Problem.md      →  Nommer le problème s'il n'est pas clair/évident
 1-CheckList.md    →  Le décomposer sans ambiguïté en Checklist de référence
-2-Architecture.md →  Planifier la solution (BIOPGE, schémas, ...)
+2-Architecture.md →  Planifier la solution (carte logique BIOPGE, schémas, ...)
 3-[Livrable]      →  Construire et entretenir la solution sous sa forme concrète
 ```
 
-> *Sans le nommer, on ne construit rien. On subit ce qu'on avait vaguement en tête.*
-
 ---
-
-## Explication détaillée
 
 ### Phase 0 — Nommer le problème
 
@@ -68,7 +64,7 @@ Un bug logique trouvé ici coûte infiniment moins qu'en Phase III.
 
 ### Phase III — Construire 🏗️
 
-**On traduit le contrat en système réel.**
+**On sort du contrat logique pour en faire un système réel.**
 
 Logiciel, entreprise, campagne, système humain — la Phase III n'a pas de date de fin.
 
