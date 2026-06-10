@@ -14,7 +14,7 @@ PACT s'applique à n'importe quel domaine.
 | **0** | `0-Problem.md` | Problème clair pour une solution claire | Mental / Volatile | Ecrire le problème clairement. Optionnel si c'est évident. |
 | **I** | `1-CheckList.md` | Checklist complète/solide à cocher | Ecrit / Permanent | Problème corrigé. Ce qu'il doit être fait. Comportements listés. Ambiguïtés résolues. |
 | **II** | `2-Architecture.md` | Plan du système-solution | Formel / Logique | Corriger la logique avant de corriger un produit défaillant. |
-| **III** | Produire le plan. | Construction & entretien du système fonctionnel | Concret / Retours | Traduire l'architecture logique en système réel et fonctionnel. |
+| **III** | Système Concret | Construction & entretien du système pré-planifié | Concret / Retours | Traduire l'architecture logique en système réel et fonctionnel. |
 
 ---
 
